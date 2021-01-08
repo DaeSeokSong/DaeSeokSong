@@ -4,9 +4,9 @@
 </div>
 
 ## Beginner Coder
-- <strong>Eng</strong>   Goal: Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
+- <strong>Eng  </strong>Goal: Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
 
-- <strong>Kr</strong>    목표: 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
+- <strong>Kr   </strong>목표: 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
 
 ## Stack
 - <img src="http://img.shields.io/badge/-Python-3572A5?style=flat&link=#">
