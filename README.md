@@ -6,11 +6,11 @@
 ## Beginner Coder
 - <strong>Eng</strong>
 - Goal: Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
-- etc, interested in developing apps and games, and web development through JSP.
+etc, interested in developing apps and games, and web development through JSP.
 
 - <strong>Kr</strong>
 - 목표: 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
-- 머신러닝(AI)외에도 앱 및 게임 개발에 관심이 많은 프로그래머입니다.
+머신러닝(AI)외에도 앱 및 게임 개발에 관심이 많은 프로그래머입니다.
 
 ## Stack
 - <img src="http://img.shields.io/badge/-Python-3572A5?style=flat&link=#">
