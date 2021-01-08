@@ -7,7 +7,5 @@
 - Goal: Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
 
 ## Stack
-- <img src="http://img.shields.io/badge/-Python-blue?style=flat&link=#">
-- <img src="http://img.shields.io/badge/-Java-orange?style=flat&link=#">
-- <img src="http://img.shields.io/badge/-Android_Studio-brightgreen?style=flat&link=#">
-- <img src="http://img.shields.io/badge/-Jsp-inactive?style=flat&link=#">
+- <img src="http://img.shields.io/badge/-Python-3572A5?style=flat&link=#">
+- <img src="http://img.shields.io/badge/-Java-b07219?style=flat&link=#">: Android_Studio, Jsp
