@@ -8,4 +8,4 @@
 
 ## Stack
 - <img src="http://img.shields.io/badge/-Python-3572A5?style=flat&link=#">
-- <img src="http://img.shields.io/badge/-Java-b07219?style=flat&link=#">   Android, Jsp
+- <img src="http://img.shields.io/badge/-Java-b07219?style=flat&link=#">
