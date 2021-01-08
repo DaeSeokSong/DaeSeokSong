@@ -11,5 +11,5 @@
 - <p>목표: 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)</p><p>머신러닝(AI)외에도 앱 및 게임 개발에 관심이 많은 프로그래머입니다.</p>
 
 ## Stack
-- <img src="http://img.shields.io/badge/-Python-3572A5?style=flat&link='https://github.com/DaeSeokSong/MachineLearningModels'">
-- <img src="http://img.shields.io/badge/-Java-b07219?style=flat&link='https://github.com/Team-NeedFor/StockOverlay'">
+- <img src="http://img.shields.io/badge/-Python-3572A5?style=flat">
+- <img src="http://img.shields.io/badge/-Java-b07219?style=flat">
