@@ -13,4 +13,4 @@
 ## Stack
 - <img src="http://img.shields.io/badge/-Python-3572A5?style=flat">
 - <img src="http://img.shields.io/badge/-Java-b07219?style=flat">
-- <img src="http://img.shields.io/badge/-Flutter-b07219?style=flat">
+- <img src="http://img.shields.io/badge/-Flutter-00ff00?style=flat">
