@@ -12,12 +12,26 @@
 
 # Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeSeokSong&layout=compact&theme=great-gatsby)
 
-# Stack
-[Main]
-- [<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">](https://www.python.org/)
-- [<img src="http://img.shields.io/badge/-Java-b07219?style=flat">](https://www.java.com/)
-- [<img src="http://img.shields.io/badge/-C/C++-f5a9bc?style=flat">](http://www.cplusplus.org/)
-
-[Sub]
-- [<img src="http://img.shields.io/badge/-Flutter-7fffd4?style=flat">](https://flutter.dev/)
+# Tech Stack
+<div align=center>
+     <p>
+          <h3> Main </h3>
+          <a href="https://www.python.org/">
+               <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          </a>
+          <a href="https://www.java.com/">
+               <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          </a>
+          <a href="http://www.cplusplus.org/">
+               <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+          </a>
+     </p>
+     <p>
+          <h3> Sub </h3>
+          <a href="https://flutter.dev/">
+               <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+          </a>
+     </p>
+</div>
