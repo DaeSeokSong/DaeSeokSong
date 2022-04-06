@@ -4,19 +4,29 @@
 </div>
 
 # :seedling: Beginner Coder
-> <h2><strong>Eng</strong></h2>
-> <h3>Goal</h3>
+> <h2><img align="absmiddle"; height=30px; src="https://github.com/PR0FESS0R-99/PR0FESS0R-99/blob/main/gifs/Hi.gif"> <strong>소개</strong></h2>
+> 
+> <h4><strong>한글</strong></h4>
 >
->	> Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
->	>
->	> In addition to machine learning (AI modeling), he is a programmer who is interested in various fields such as computer vision, NLP, and apps.
+>	- 머신러닝(AI 모델링) 외에도 컴퓨터 비전, NLP, 앱 등 다양한 분야에 관심이 많은 프로그래머입니다.
 >
-> <h2><strong>한글</strong></h2>
-> <h3>목표</h3>
+> <h4><strong>Eng</strong></h4>
+> 
+>	- In addition to machine learning (AI modeling), he is a programmer who is interested in various fields such as computer vision, NLP, and apps.
+>	
+> <br>
 >
->	> 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
->	>
->	> 머신러닝(AI 모델링) 외에도 컴퓨터 비전, NLP, 앱 등 다양한 분야에 관심이 많은 프로그래머입니다.
+> <h2><strong>:dart: 목표</strong></h2>
+> 
+> <h4><strong>한글</strong></h4>
+>
+>	- 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
+>
+> <h4><strong>Eng</strong></h4>
+> 
+>	- Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
+>	
+
 
 <br>
 
@@ -30,31 +40,31 @@
      <p>
           <h3> Main </h3>
           <a href="https://github.com/topics/python">
-               <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </a>
           <a href="https://github.com/keras-team/keras">
-               <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
           </a>
           <a href="https://github.com/topics/java">
-               <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           </a>
           <a href="https://github.com/topics/cplusplus">
-               <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
           </a>
      </p>
      <p>
           <h3> Sub </h3>
           <a href="https://github.com/topics/scikit-learn">
-               <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
           </a>
           <a href="https://github.com/flutter/flutter">
-               <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
           </a>
            <a href="https://github.com/topics/firebase">
-               <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
           </a>
           <a href="https://github.com/topics/mysql">
-               <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           </a>
      </p>
 </div>
