@@ -18,8 +18,12 @@
 >	>
 >	> 머신러닝(AI 모델링) 외에도 컴퓨터 비전, NLP, 앱 등 다양한 분야에 관심이 많은 프로그래머입니다.
 
+<br>
+
 # :computer: Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 <div align=center>
      <h1>:books: Tech Stacks</h1>
