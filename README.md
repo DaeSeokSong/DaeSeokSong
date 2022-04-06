@@ -12,7 +12,6 @@
 
 # Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeSeokSong)](https://github.com/anuraghazra/github-readme-stats)
 
 # Stack
 [Main]
@@ -22,3 +21,5 @@
 
 [Sub]
 - <img src="http://img.shields.io/badge/-Flutter-7fffd4?style=flat">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaeSeokSong)](https://github.com/anuraghazra/github-readme-stats)
