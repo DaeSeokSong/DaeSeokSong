@@ -15,9 +15,9 @@
 
 # Stack
 [Main]
-- <img src="http://img.shields.io/badge/-Python-3572A5?style=flat">
-- <img src="http://img.shields.io/badge/-Java-b07219?style=flat">
-- <img src="http://img.shields.io/badge/-C/C++-f5a9bc?style=flat">
+- [<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">](https://www.python.org/)
+- [<img src="http://img.shields.io/badge/-Java-b07219?style=flat">](https://www.java.com/)
+- [<img src="http://img.shields.io/badge/-C/C++-f5a9bc?style=flat">](http://www.cplusplus.org/)
 
 [Sub]
-- <img src="http://img.shields.io/badge/-Flutter-7fffd4?style=flat">
+- [<img src="http://img.shields.io/badge/-Flutter-7fffd4?style=flat">](https://flutter.dev/)
