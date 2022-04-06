@@ -3,14 +3,17 @@
      <img src="https://img.shields.io/github/followers/DaeSeokSong?style=social">
 </div>
 
-## Beginner Coder
+# Beginner Coder
 - <strong>Eng</strong>
 - <p>Goal: Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)</p><p>etc, interested in developing apps and games, and web development through JSP.</p>
 
 - <strong>Kr</strong>
 - <p>목표: 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)</p><p>머신러닝(AI)외에도 앱 및 여러 개발에 관심이 많은 프로그래머입니다.</p>
 
-## Stack
+# Github
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxdsaqwe1231@naver.com&show_icons=true&theme=great-gatsby)
+
+# Stack
 [Main]
 - <img src="http://img.shields.io/badge/-Python-3572A5?style=flat">
 - <img src="http://img.shields.io/badge/-Java-b07219?style=flat">
