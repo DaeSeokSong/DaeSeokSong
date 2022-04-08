@@ -4,34 +4,39 @@
      <img src="https://img.shields.io/github/followers/DaeSeokSong?style=social">
 </div>
 
-> <h2><img height=40px; src="https://github.com/PR0FESS0R-99/PR0FESS0R-99/blob/main/gifs/Hi.gif"/> 소개</h2>
+> <h1><img height=40px; src="https://github.com/PR0FESS0R-99/PR0FESS0R-99/blob/main/gifs/Hi.gif"/> 소개</h1>
 > 
-> <h4><strong>한글</strong></h4>
+> <h3><strong>한글</strong></h3>
 >
 >	- 머신러닝(AI 모델링) 외에도 컴퓨터 비전, NLP, 앱 등 다양한 분야에 관심이 많은 프로그래머입니다.
 >
-> <h4><strong>Eng</strong></h4>
+> <h3><strong>Eng</strong></h3>
 > 
 >	- In addition to machine learning (AI modeling), he is a programmer who is interested in various fields such as computer vision, NLP, and apps.
 >	
 > <br>
 >
-> <h2><strong>:dart: 목표</strong></h2>
+> <h1><strong>:dart: 목표</strong></h1>
 > 
-> <h4><strong>한글</strong></h4>
+> <h3><strong>한글</strong></h3>
 >
 >	- 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
 >
-> <h4><strong>Eng</strong></h4>
+> <h3><strong>Eng</strong></h3>
 > 
 >	- Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
 >	
 
-
 <br>
 
-# :computer: Github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+     <h1>:computer: Github</h1>
+     <p>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+               <img src="https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=great-gatsby">
+          </a>
+     </p>
+</div>
 
 <br>
 
