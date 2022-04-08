@@ -4,6 +4,10 @@
      <img src="https://img.shields.io/github/followers/DaeSeokSong?style=social">
 </div>
 
+<br>
+<br>
+<br>
+
 > <h1><img height=40px; src="https://github.com/PR0FESS0R-99/PR0FESS0R-99/blob/main/gifs/Hi.gif"/> 소개</h1>
 > 
 > <h3><strong>한글</strong></h3>
@@ -37,8 +41,6 @@
           </a>
      </p>
 </div>
-
-<br>
 
 <div align=center>
      <h1>:books: Tech Stacks</h1>
