@@ -1,10 +1,10 @@
-<div align=right>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:4000FF&height=200&section=header&fontAlign=50&fontAlignY=70&fontSize=70&fontColor=FFFFFF&text=🌱%20Beginner%20Coder)
+<div align=center>
      <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaeSeokSong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
      <img src="https://img.shields.io/github/followers/DaeSeokSong?style=social">
 </div>
 
-# :seedling: Beginner Coder
-> <h2><img align="absmiddle"; height=30px; src="https://github.com/PR0FESS0R-99/PR0FESS0R-99/blob/main/gifs/Hi.gif"> <strong>소개</strong></h2>
+> <h2><img height=40px; src="https://github.com/PR0FESS0R-99/PR0FESS0R-99/blob/main/gifs/Hi.gif"/> 소개</h2>
 > 
 > <h4><strong>한글</strong></h4>
 >
@@ -50,6 +50,9 @@
           </a>
           <a href="https://github.com/topics/cplusplus">
                <img height=25px; src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+          </a>
+     <a href="https://github.com/topics/cplusplus">
+               <img height=25px; src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
           </a>
      </p>
      <p>
