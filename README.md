@@ -58,7 +58,7 @@
           <a href="https://github.com/topics/cplusplus">
                <img height=25px; src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
           </a>
-     <a href="https://github.com/topics/cplusplus">
+     <a href="https://github.com/opencv/opencv">
                <img height=25px; src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
           </a>
      </p>
