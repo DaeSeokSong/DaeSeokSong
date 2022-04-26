@@ -40,6 +40,11 @@
                <img src="https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=great-gatsby">
           </a>
      </p>
+     <p>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeSeokSong&layout=compact">
+          </a>
+     </p>
 </div>
 
 <div align=center>
