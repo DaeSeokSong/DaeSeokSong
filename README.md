@@ -54,17 +54,20 @@
           <a href="https://github.com/topics/python">
                <img height=25px; src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           </a>
+          <a href="https://github.com/topics/cplusplus">
+               <img height=25px; src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+          </a>
+          <a href="https://github.com/opencv/opencv">
+               <img height=25px; src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+          </a>
+          <a href="https://github.com/topics/pytorch">
+               <img height=25px; src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+          </a>
           <a href="https://github.com/keras-team/keras">
                <img height=25px; src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
           </a>
           <a href="https://github.com/topics/java">
-               <img height=25px; src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          </a>
-          <a href="https://github.com/topics/cplusplus">
-               <img height=25px; src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
-          </a>
-     <a href="https://github.com/opencv/opencv">
-               <img height=25px; src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
           </a>
      </p>
      <p>
