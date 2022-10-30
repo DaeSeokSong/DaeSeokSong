@@ -58,12 +58,6 @@
      </p>
      <p>
           <h3> Sub </h3>
-          <a href="https://github.com/topics/scikit-learn">
-               <img height=25px; src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-          </a>
-          <a href="https://github.com/flutter/flutter">
-               <img height=25px; src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
-          </a>
            <a href="https://github.com/topics/firebase">
                <img height=25px; src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
           </a>
