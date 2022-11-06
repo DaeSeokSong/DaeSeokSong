@@ -12,7 +12,7 @@
 > 
 > <h3><strong>한글</strong></h3>
 >
->	- 머신러닝(AI 모델링) 외에도 컴퓨터 비전, NLP, 앱 등 다양한 분야에 관심이 많은 프로그래머입니다.
+>	- AI 모델링, 컴퓨터 비전 외에도 NLP, 앱 프로그래밍 등 다양한 분야에 관심을 가진 프로그래머입니다.
 >
 > <h3><strong>Eng</strong></h3>
 > 
@@ -24,14 +24,20 @@
 > 
 > <h3><strong>한글</strong></h3>
 >
->	- 머신러닝 엔지니어 (신약개발 및 단백질 구조 분석)
->
+>	- 머신러닝 엔지니어
+>> - 단백질 구조 분석을 통한 신약 개발 모델 구축
+>> - 지구온난화 해결을 위한 SmartArea 조성 및 관리 모델 구축
+>> - 자동차 번호판 이미지 복구 모델 구축
 > <h3><strong>Eng</strong></h3>
 > 
 >	- Machine Learning Engineer (the development of new pharmaceuticals, Protein structure analysis)
->	
+>> - A New Drug Development Model through Protein Structure Analysis
+>> - Development of Smart Area and Management Model for Global Warming
+>> - Building a Vehicle License Plate Image Recovery Model
 
 <br>
+
+![DaeSeok Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeSeokSong&show_icons=true&theme=radical)
 
 <div align=center>
      <h1>:books: Tech Stacks</h1>
