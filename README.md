@@ -53,20 +53,17 @@
           <a href="https://github.com/topics/pytorch">
                <img height=25px; src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
           </a>
-          <a href="https://github.com/keras-team/keras">
-               <img height=25px; src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-          </a>
-          <a href="https://github.com/topics/java">
-               <img height=25px; src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-          </a>
      </p>
      <p>
           <h3> Sub </h3>
-           <a href="https://github.com/topics/firebase">
-               <img height=25px; src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
+          <a href="https://github.com/topics/java">
+               <img height=25px; src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
           </a>
           <a href="https://github.com/topics/mysql">
                <img height=25px; src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          </a>
+          <a href="https://github.com/keras-team/keras">
+               <img height=25px; src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
           </a>
      </p>
 </div>
