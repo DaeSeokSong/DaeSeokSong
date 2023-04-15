@@ -25,15 +25,15 @@
 > <h3><strong>한글</strong></h3>
 >
 >	- AI 엔지니어
->> - 단백질 구조 분석을 통한 신약 개발 모델 구축
->> - 지구온난화 해결을 위한 SmartArea 조성 및 관리 모델 구축
->> - 자동차 번호판 이미지 복구 모델 구축
+>     - 단백질 구조 분석을 통한 신약 개발 모델 구축
+>     - 지구온난화 해결을 위한 SmartArea 조성 및 관리 모델 구축
+>     - 자동차 번호판 이미지 복구 모델 구축
 > <h3><strong>Eng</strong></h3>
 > 
 >	- AI Engineer (the development of new pharmaceuticals, Protein structure analysis)
->> - A New Drug Development Model through Protein Structure Analysis
->> - Development of Smart Area and Management Model for Global Warming
->> - Building a Vehicle License Plate Image Recovery Model
+>     - A New Drug Development Model through Protein Structure Analysis
+>     - Development of Smart Area and Management Model for Global Warming
+>     - Building a Vehicle License Plate Image Recovery Model
 
 <br>
 
