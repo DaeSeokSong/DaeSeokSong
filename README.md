@@ -11,11 +11,11 @@
 > 
 > <h3><strong>한글</strong></h3>
 >
->	- AI 모델링, 컴퓨터 비전 외에도 NLP, 앱 프로그래밍 등 다양한 분야에 관심을 가진 프로그래머입니다.
+>	- 효율적인 AI 설계에 관심을 가지고 있는 인류의 더 나은 미래를 바라보는 프로그래머입니다.
 >
 > <h3><strong>Eng</strong></h3>
 > 
->	- In addition to machine learning (AI modeling), he is a programmer who is interested in various fields such as computer vision, NLP, and apps.
+>	- A programmer looking at a better future for humanity who is interested in designing efficient AI.
 >	
 > <br>
 >
@@ -24,15 +24,17 @@
 > <h3><strong>한글</strong></h3>
 >
 >	- AI 엔지니어
->     - 단백질 구조 분석을 통한 신약 개발 모델 구축
->     - 지구온난화 해결을 위한 SmartArea 조성 및 관리 모델 구축
->     - 자동차 번호판 이미지 복구 모델 구축
+>     - 단백질 구조 분석을 통한 신약 개발 모델 개발
+>     - 지구온난화 해결을 위한 SmartArea 조성 및 관리 모델 개발
+>     - 효율적인 학습 방법 연구
+>     - SNN(Spiking Neural Network)의 범용적인 학습 방법 정의
 > <h3><strong>Eng</strong></h3>
 > 
->	- AI Engineer (the development of new pharmaceuticals, Protein structure analysis)
+>	- AI Engineer (toward efficiency)
 >     - A New Drug Development Model through Protein Structure Analysis
 >     - Development of Smart Area and Management Model for Global Warming
->     - Building a Vehicle License Plate Image Recovery Model
+>     - Research on efficient learning methods
+>     - Defining a universal learning method for SNN(Spiking Neural Network)
 
 <br>
 
@@ -47,10 +49,13 @@
                <img height=25px; src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
           </a>
           <a href="https://github.com/opencv/opencv">
-               <img height=25px; src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+               <img height=25px; src="https://img.shields.io/badge/OpenCV-00FF00?style=for-the-badge&logo=OpenCV&logoColor=white">
           </a>
           <a href="https://github.com/topics/pytorch">
                <img height=25px; src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+          </a>
+          <a href="https://github.com/Lightning-AI/pytorch-lightning">
+               <img height=25px; src="https://img.shields.io/badge/PyTorch Lightning-5C3EE8?style=for-the-badge&logo=PyTorch&logoColor=white">
           </a>
      </p>
      <p>
